@@ -6,7 +6,7 @@ I'm an aspiring **`front-end developer`** living in California, USA. I've starte
 
 - 🔭 I'm currently organizing my local repos to upload them to my GitHub
 - 🌱 I'm currently learning **`React`**, **`Git`**, and **`GitHub`**
-- 🤩 I love to code, watch animal videos on Youtube, and playing games
+- 🤩 I love coding, watching animal videos on Youtube, and playing games
 - 💬 Ask me anything related to South Korea, my home country
 - ⚡️ Fun Fact: I used to teach elementary school students in South Korea and in California
 
