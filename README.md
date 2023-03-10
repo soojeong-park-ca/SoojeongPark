@@ -10,7 +10,7 @@ I'm an aspiring **`front-end developer`** living in California, USA. I've starte
 - 💬 Ask me anything related to South Korea, my home country
 - ⚡️ Fun Fact: I used to teach elementary school students in South Korea and in California
 
-Currently, I like to build websites and apps with :
+Currently, I like to build websites and apps with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
 
