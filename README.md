@@ -12,7 +12,7 @@ I'm an aspiring **`front-end developer`** living in California, USA. I've starte
 
 Currently, I like to build websites and apps with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git)](https://skillicons.dev)
 
 ![Soojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojeong-park-ca&show_icons=true&theme=tokyonight)
 
