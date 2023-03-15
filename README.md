@@ -14,6 +14,6 @@ Currently, I like to build websites and apps with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git)](https://skillicons.dev)
 
-![Soojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojeong-park-ca&show_icons=true&theme=tokyonight)
+![Soojeong's GitHub stats](https://github-readme-stats-soojeong-park-ca.vercel.app/api?username=soojeong-park-ca&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soojeong-park-ca&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-soojeong-park-ca.vercel.app/api/top-langs/?username=soojeong-park-ca&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
