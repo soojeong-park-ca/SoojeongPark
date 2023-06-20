@@ -2,9 +2,9 @@
 
 Hi there 👋
 
-I'm an aspiring **`front-end developer`** living in California, USA. I've started my learning journey since March 2022 when I began thinking about what I really wanted to do with my life. Coding has kept me excited and motivated throughout the pandemic and now I'm working hard to make it my career. I especially love putting my time and effort into figuring out how to make the app I'm building work. Nothing feels as great as the moment you solve the problem! Thank you for visiting my GitHub and stay tuned to see my progress!
+I'm a **`front end developer`** living in California, USA. I've started my learning journey since March 2022 when I began thinking about what I really wanted to do with my life. Coding has kept me excited and motivated throughout the pandemic and now I'm working hard to make it my career. I especially love putting my time and effort into figuring out how to make the app I'm building work. Nothing feels as great as the moment you solve the problem! Thank you for visiting my GitHub and stay tuned to see my progress!
 
-- 🔭 I'm currently building my **`portfolio website`**
+- 🔭 I'm currently looking for internships or entry-level frontend roles
 - 🌱 I'm currently learning **`React Router 6`** and **`SASS(SCSS)`**
 - 🤩 I love coding, watching animal videos on Youtube, and playing games
 - 💬 Ask me anything related to South Korea, my home country
